@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7631928462",
+    "project_id": "excersise-6-626a7",
+    "storage_bucket": "excersise-6-626a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7631928462:android:be67c6719be83bfd2d9ddf",
+        "android_client_info": {
+          "package_name": "com.anonymous.Exercsise_6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZzTxrwTtsAO1YVmKOgwmZ5V3lYmep-fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
